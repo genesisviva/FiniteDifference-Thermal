@@ -1,0 +1,12 @@
+1.11e-4 Thermal Diffusivity
+0 Time Step Amount (Currently no effect cause sets during executing)
+10 Length
+10 Width
+300 Top Bound
+300 Bot Bound
+300 Right Bound
+1000 Left Bound
+1 Length step
+1 Width step
+1 Time step
+100 Time

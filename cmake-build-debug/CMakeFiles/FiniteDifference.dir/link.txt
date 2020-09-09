@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\FiniteDifference.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\FiniteDifference.dir/objects.a @CMakeFiles\FiniteDifference.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\FiniteDifference.dir/objects.a -Wl,--no-whole-archive  -o FiniteDifference.exe -Wl,--out-implib,libFiniteDifference.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FiniteDifference.dir\linklibs.rsp
